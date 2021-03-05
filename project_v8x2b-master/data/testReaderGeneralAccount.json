@@ -1,0 +1,21 @@
+{
+  "similar personalities": [
+    {
+      "name": "Mac Miller",
+      "trait": "extroversion"
+    },
+    {
+      "name": "Cazuza",
+      "trait": "happiness"
+    }
+  ],
+  "name": "My account",
+  "personality scores": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "username": "myUser"
+}

@@ -1,0 +1,26 @@
+{
+    "similar personalities": [
+        {
+            "name": "tony stark",
+            "trait": "confident"
+        },
+        {
+            "name": "gege",
+            "trait": "fofa"
+        }
+    ],
+    "name": "Arthur",
+    "personality scores": [
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        3,
+        2,
+        0,
+        1
+    ],
+    "username": "tutu"
+}
